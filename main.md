@@ -13,9 +13,14 @@ int main()
 ```
 
 ```c++
+
+void print2()
+{
+
+}
 void print()
 {
-    
+
 }
 ```
 
